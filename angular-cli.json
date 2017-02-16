@@ -9,8 +9,7 @@
       "outDir": "dist",
       "assets": [
         "assets",
-        "favicon.ico",
-        "../node_modules/@salesforce-ux/design-system/assets"
+        "favicon.ico"
       ],
       "index": "index.html",
       "main": "main.ts",
@@ -20,7 +19,7 @@
       "mobile": false,
       "styles": [
         "styles.css",
-        "../node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.min.css"
+        "../node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css"
       ],
       "scripts": [],
       "environments": {

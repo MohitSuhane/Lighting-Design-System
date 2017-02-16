@@ -14,6 +14,6 @@ export class AppComponent {
   ];
 
   onSubmit() {
-  	this.accounts.push({no:"127",name:this.new});
+  	this.accounts.push({no:"127",name:""});
   }
 }
